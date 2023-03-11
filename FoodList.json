@@ -1,0 +1,11 @@
+[
+  {
+    "id": 0,
+    "type": "港式",
+    "name": "譚仔三哥番茄湯雞肉魚蛋米線",
+    "price": 42
+  },
+  { "id": 1, "type": "快餐", "name": "KFC辣汁蘑菇香飯", "price": 30 },
+  { "id": 2, "type": "快餐", "name": "Mcdonald's fish bao", "price": 15 },
+  { "id": 3, "type": "港式快餐", "name": "雜扒鐵板餐", "price": 70 }
+]
