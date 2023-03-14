@@ -85,7 +85,12 @@
       price: 85,
       restaurant: "The Butchers Club",
     },
-    { id: 14, type: "西餐", name: "意大利麵", price: 95, restaurant: "Joia" },
+    { id: 14, 
+     type: "西餐", 
+     name: "意大利麵", 
+     price: 95, 
+     restaurant: "Joia", 
+    },
     {
       id: 15,
       type: "韓式料理",
