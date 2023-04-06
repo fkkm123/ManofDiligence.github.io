@@ -1,6 +1,5 @@
 const RestaurantsInfo = [
-  // 中西區
-  [
+  "中西區" : [
     {
       name: '蘭芳園',
       type: '港式茶餐廳🍛',
@@ -37,8 +36,7 @@ image:'https://static6.orstatic.com/userphoto2/photo/1S/1F0X/0A2UO548C565806EB72
 image:'https://static7.orstatic.com/userphoto2/photo/1F/152J/08421I112363348FA16BEFpx.jpg'	
     }
   ],
-  // 東區
-  [
+  "東區" : [
     {
       name: 'Dodam Chicken',
       type: '韓式料理🥘',
@@ -75,8 +73,7 @@ image:'https://resource02.ulifestyle.com.hk/ulcms/content/article/image/w600/uhk
 image:'https://static6.orstatic.com/userphoto/photo/H/DRK/02PW0XBFD4ADB1070F0815px.jpg'	
     }
   ],
-  // 南區
-  [
+  "南區":[
     {
       name: '奧壽司',
       type: '日式料理🍜',
@@ -113,8 +110,7 @@ image:'https://static7.orstatic.com/userphoto2/photo/U/NUY/04PO6ADB4276980CBDAAE
 image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeppGTY_cKFAy28E_JtP6ebluTQUD2uWH_0Q&usqp=CAU'	   
    }
   ],
-// 灣仔區
-  [
+"灣仔區" : [
     {
       name: '仙后餐廳',
       type: '西餐🥩',
@@ -151,7 +147,7 @@ image:'https://static7.orstatic.com/userphoto2/photo/1W/1I1F/0AOA7A984370BCFFDD4
 image:'https://static5.orstatic.com/userphoto/doorphoto/0/8/0001KW6418AEDC83CD0E61lv.jpg'	  
    }
   ],
-// 九龍城區
+"九龍城區" :
   [
     {
       name: '小曼谷海鮮燒烤屋',
@@ -189,7 +185,7 @@ image:'https://ifoodcourt.com.hk/wp-content/uploads/2016/11/Orange-Elephant-Thai
 image:'https://www.getreadyhk.com/images/stories/blog/ying/tai-wo-tang/tai-wo-tang-10.JPG'	   
    }
   ],
-// 觀塘區
+ "觀塘區" :
   [
     {
       name: '玉桃軒酒家',
@@ -227,7 +223,7 @@ image:'https://static8.orstatic.com/userphoto2/photo/22/1MUT/0BMJ631264CF4A1CC41
 image:'https://static7.orstatic.com/userphoto2/photo/19/101G/074AGADAB8CFB39A322BC3px.jpg'	   
    }
   ],
-// 深水埗區
+ "深水埗區" :
   [
     {
       name: '威記粥品',
@@ -265,7 +261,7 @@ image:'https://static6.orstatic.com/userphoto2/photo/20/1KZF/0B97ZPCE197AAE23C37
 image:'https://cdn.hk01.com/di/media/images/cis/5dc11f5723ab170deb414495.jpg/x-PI9NBDbSd_YqFKPyS3ultpDBUWFS40Y-0Gk2PtBpM?v=w1920'	   
    }
   ],
-// 黃大仙區
+"黃大仙區" :
   [
     {
       name: '健康齋廚',
@@ -303,7 +299,7 @@ image:'https://static7.orstatic.com/userphoto2/photo/Z/S7W/05KO7ED974F27B0B9DA9A
 image:'https://resource02.ulifestyle.com.hk/ulcms/content/article/image/w600/uhk/event/201812/20181205184958_1_img-1886.JPG'	   
    }  
   ],
-// 油尖旺區
+ "油尖旺區" :
   [
     {
       name: '滾得棧',
@@ -341,7 +337,7 @@ image:'https://p1.591.com.hk/house/active/2015/04/30/143040326903998405_600x450.
 image:'https://cdn.feehk.com/icon/static5-restaurant/userphoto2/photo/X/Q65/0563NW0743A8B07DCF1F38lv.jpg'	   
    }
   ],
-// 離島區
+"離島區" :
   [
     {
       name: 'The Upper Deck',
@@ -379,7 +375,7 @@ image:'https://media-cdn.tripadvisor.com/media/photo-s/13/64/de/ea/diner.jpg'
 image:'https://www.getreadyhk.com/images/stories/blog/mrmrsfoodhk/sidan/sidan2.JPG'	   
    }
   ],
-// 葵青區
+"葵青區" :
   [
     {
       name: '嘉寶漢堡',
@@ -417,7 +413,7 @@ image:'https://static8.orstatic.com/userphoto2/photo/1Z/1KLC/0B6FS71F6A4F932C62E
 image:'https://ifoodcourt.com.hk/wp-content/uploads/2021/08/Long-Chuan.jpg'	   
    }
   ],
-// 北區
+"北區" :
   [
     {
       name: '米子燒肉家',
@@ -455,7 +451,7 @@ image:'https://pbs.twimg.com/media/E8vYrw7VIAYbB5q.jpg:large'
 image:'https://static6.orstatic.com/userphoto2/photo/12/UMW/061UUDd7ee6a5a18122dd0lv.jpg'	   
    }
   ],
-// 西貢區
+"西貢區" :
   [
     {
       name: 'Little Cove Espresso',
@@ -493,7 +489,7 @@ image:'https://i0.wp.com/yfl-kelvin.com/wp-content/uploads/2017/06/20170610_1253
 image:'https://had18.huluhk.org/uploadedFile/19932209201527563001.jpg'	   
    }
   ],
-// 沙田區
+"沙田區" :
   [
     {
       name: '香港永年車仔麵茶冰廳',
@@ -531,7 +527,7 @@ image:'https://static7.orstatic.com/userphoto2/photo/Y/RJU/05FX82450EE5557073444
 image:'https://static8.orstatic.com/userphoto2/photo/1H/16IN/08ECK3A156AFE41131CBE9px.jpg'	   
    }
   ],
-// 大埔區
+"大埔區" :
   [
     {
       name: '喫茶ちょうぼ Choubo Kissaten',
@@ -569,7 +565,7 @@ image:'https://ak-d.tripcdn.com/images/1i6512224snx2fwg00321.jpg?proc=source/tri
 image:'https://lh3.googleusercontent.com/-Bj-IZCh9s0M/YR4g4PR5kKI/AAAAAAAAAcc/ls9lUA6n1LAxBX-3GsxfWWl_-YRjJrLKgCLcBGAsYHQ/w512-h640/image.png'	   
    }
   ],
-// 荃灣區
+"荃灣區" :
   [
     {
       name: '一．漢堡',
@@ -607,7 +603,7 @@ image:'https://static8.orstatic.com/userphoto2/photo/1L/19B5/08Y79V6D2BC1DA2BE63
 image:'https://0.share.photo.xuite.net/sunny1948/1028971/13571904/705125425_m.jpg'	   
   }
   ],
-// 屯門區
+"屯門區" :
   [
     {
       name: '大力齋廚',
@@ -645,7 +641,7 @@ image:'https://static7.orstatic.com/userphoto2/photo/1U/1GLR/0AE2U2B5FD5B2E8FE7F
 image:'https://static7.orstatic.com/userphoto2/photo/1K/18WQ/08VCS662697ECE6DC66D0Epx.jpg'	   
   }
   ],
-// 元朗區
+"元朗區" :
   [
     {
       name: '大家樂 Cafe de Coral',
@@ -683,7 +679,5 @@ image:'https://resource02.ulifestyle.com.hk/ublog/post/w960/202209/16640201088.j
 image:'https://cdn.hk01.com/di/media/images/dw/20210310/446352034916995072391685.jpeg/6Zus5JZM9i_2pYEXhcAea7Ul7s81gtMip2dFzadnRc0?v=w1920'	   
    }
   ]
-
- 
 	
 ];
