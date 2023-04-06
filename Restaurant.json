@@ -1,39 +1,39 @@
 [
-  "中西區" : [
+  "中西區": [
     {
-      name: '蘭芳園',
-      type: '港式茶餐廳🍛',
-      district: '中西區',
-      address: '中環結志街2號',
-image:'https://cfcdn2.azsg.opensnap.com/azsg/snapphoto/photo/L8/GRZB/3BAZ4151ECF19EB75F6A7Dlv.jpg'
+      "name": "蘭芳園",
+      "type": "港式茶餐廳🍛",
+      "district": "中西區",
+      "address": "中環結志街2號",
+      "image": "https://cfcdn2.azsg.opensnap.com/azsg/snapphoto/photo/L8/GRZB/3BAZ4151ECF19EB75F6A7Dlv.jpg"
     },
     {
-      name: '上環熟食中心',
-      type: '港式茶餐廳🍛',
-      district: '上環',
-      address: '上環皇后大道中345號上環市政大廈',
-      image:'https://static6.orstatic.com/userphoto/photo/6/4VJ/00YOA98208D7749F0DC786px.jpg'	
+      "name": "上環熟食中心",
+      "type": "港式茶餐廳🍛",
+      "district": "上環",
+      "address": "上環皇后大道中345號上環市政大廈",
+      "image": "https://static6.orstatic.com/userphoto/photo/6/4VJ/00YOA98208D7749F0DC786px.jpg"
     },
     {
-      name: '瘋狂小面',
-      type: '中菜館🍚',
-      district: '中西區',
-      address: '中環士丹利街66-72號佳德商業大廈1樓',
-image:'https://static7.orstatic.com/userphoto/photo/K/GKX/039WW66B31C599C25E76B3px.jpg'	
+      "name": "瘋狂小面",
+      "type": "中菜館🍚",
+      "district": "中西區",
+      "address": "中環士丹利街66-72號佳德商業大廈1樓",
+      "image": "https://static7.orstatic.com/userphoto/photo/K/GKX/039WW66B31C599C25E76B3px.jpg"
     },
     {
-      name: 'Bistro Breton by La Creperie',
-      type: '西餐🥩',
-      district: '中西區',
-      address: '西環西營盤德輔道西321號瑧璈地下3號舖',
-image:'https://static6.orstatic.com/userphoto2/photo/1S/1F0X/0A2UO548C565806EB72F11px.jpg'	
+      "name": "Bistro Breton by La Creperie",
+      "type": "西餐🥩",
+      "district": "中西區",
+      "address": "西環西營盤德輔道西321號瑧璈地下3號舖",
+      "image": "https://static6.orstatic.com/userphoto2/photo/1S/1F0X/0A2UO548C565806EB72F11px.jpg"
     },
     {
-      name: '川之源',
-      type: '中菜館🍚',
-      district: '上環',
-      address: '西環西營盤正街62號地舖',
-image:'https://static7.orstatic.com/userphoto2/photo/1F/152J/08421I112363348FA16BEFpx.jpg'	
+      "name": "川之源",
+      "type": "中菜館🍚",
+      "district": "上環",
+      "address": "西環西營盤正街62號地舖",
+      "image": "https://static7.orstatic.com/userphoto2/photo/1F/152J/08421I112363348FA16BEFpx.jpg"
     }
   ],
   "東區" : [
@@ -73,42 +73,42 @@ image:'https://resource02.ulifestyle.com.hk/ulcms/content/article/image/w600/uhk
 image:'https://static6.orstatic.com/userphoto/photo/H/DRK/02PW0XBFD4ADB1070F0815px.jpg'	
     }
   ],
-  "南區":[
+ "南區": [
     {
-      name: '奧壽司',
-      type: '日式料理🍜',
-      district: '南區',
-      address: '薄扶林數碼港100號數碼港商場307號舖',
-image:'https://4.bp.blo gspot.com/-tGelDhPuVwM/Wei7eMksy8I/AAAAAAAAjNQ/IKKmZBswu9YPAPTmMHh0LyU1xwicME-dgCLcBGAs/s1600/IMG_2549.JPG'	
+      "name": "奧壽司",
+      "type": "日式料理🍜",
+      "district": "南區",
+      "address": "薄扶林數碼港100號數碼港商場307號舖",
+      "image": "https://4.bp.blogspot.com/-tGelDhPuVwM/Wei7eMksy8I/AAAAAAAAjNQ/IKKmZBswu9YPAPTmMHh0LyU1xwicME-dgCLcBGAs/s1600/IMG_2549.JPG"
     },
     {
-      name: '海灣餐廳及海灣咖啡室',
-      type: '西餐🥩',
-      district: '南區',
-      address: '黃竹坑黃竹坑道180號香港海洋公園萬豪酒店海灣地下',
-image:'https://static6.orstatic.com/userphoto2/photo/21/1LZD/0BGBH10F76F39C567C8B53px.jpg'	  
-   },
-   {
-      name: '明園 Ming Yuen',
-      type: '中菜館🍚',
-      district: '南區',
-      address: '淺水灣大潭水塘道88號陽明山莊會所',
-image:'https://static8.orstatic.com/userphoto2/photo/1W/1IF5/0AQZSF7DCB68893997903Dsx.jpg'	
-   },
-   {
-      name: '金記冰室',
-      type: '港式茶餐廳🍛',
-      district: '南區',
-      address: '薄扶林數碼港100號數碼港商場307號舖',
-image:'https://static7.orstatic.com/userphoto2/photo/U/NUY/04PO6ADB4276980CBDAAE9px.jpg'	
+      "name": "海灣餐廳及海灣咖啡室",
+      "type": "西餐🥩",
+      "district": "南區",
+      "address": "黃竹坑黃竹坑道180號香港海洋公園萬豪酒店海灣地下",
+      "image": "https://static6.orstatic.com/userphoto2/photo/21/1LZD/0BGBH10F76F39C567C8B53px.jpg"
     },
     {
-      name: '南海小館',
-      type: '中菜館🍚',
-      district: '南區',
-      address: '黃竹坑黃竹坑道180號香港海洋公園萬豪酒店海灣地下',
-image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeppGTY_cKFAy28E_JtP6ebluTQUD2uWH_0Q&usqp=CAU'	   
-   }
+      "name": "明園 Ming Yuen",
+      "type": "中菜館🍚",
+      "district": "南區",
+      "address": "淺水灣大潭水塘道88號陽明山莊會所",
+      "image": "https://static8.orstatic.com/userphoto2/photo/1W/1IF5/0AQZSF7DCB68893997903Dsx.jpg"
+    },
+    {
+      "name": "金記冰室",
+      "type": "港式茶餐廳🍛",
+      "district": "南區",
+      "address": "薄扶林數碼港100號數碼港商場307號舖",
+      "image": "https://static7.orstatic.com/userphoto2/photo/U/NUY/04PO6ADB4276980CBDAAE9px.jpg"
+    },
+    {
+      "name": "南海小館",
+      "type": "中菜館🍚",
+      "district": "南區",
+      "address": "黃竹坑黃竹坑道180號香港海洋公園萬豪酒店海灣地下",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeppGTY_cKFAy28E_JtP6ebluTQUD2uWH_0Q&usqp=CAU"	   
+    }
   ],
 "灣仔區" : [
     {
