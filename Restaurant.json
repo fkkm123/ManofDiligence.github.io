@@ -1,4 +1,41 @@
 {
+  "黃埔": [
+    {
+      "name": "米気 Mai Hei",
+      "type": "日本菜🍛",
+      "district": "黃埔",
+      "address": "紅磡黃埔天地百寶坊(第3期)地下G32號舖",
+      "image": "https://static6.orstatic.com/userphoto2/photo/17/Y6L/06R2XLD9480B43DB7FB21Bpx.jpg"
+    },
+    {
+      "name": "祥榮餐廳 Cheung Wing Restaurant",
+      "type": "港式 茶餐廳/冰室🍛",
+      "district": "黃埔",
+      "address": "紅磡黃埔天地奇妙坊(第1期)地下G7A, 7B 及7D號舖",
+      "image": "https://static6.orstatic.com/userphoto2/photo/23/1NZ7/0BUIDT40E74D19D8349D60px.jpg"
+    },
+    {
+      "name": "SUKIYA すき家",
+      "type": "日本菜🍚",
+      "district": "黃埔",
+      "address": "紅磡黃埔天地時尚坊(第2期)地下G6B號舖",
+      "image": "https://static5.orstatic.com/userphoto2/photo/1C/11Y8/07HVDKC424C8AE44DD4FD4px.jpg"
+    },
+    {
+      "name": "薩莉亞意式餐廳 (黃埔天地百寶坊) Saizeriya Italian Restaurant",
+      "type": "意大利菜🥩",
+      "district": "黃埔",
+      "address": "紅磡黃埔天地百寶坊(第3期)地下G21-23號舖",
+      "image": "https://static6.orstatic.com/userphoto/photo/8/6R7/01C1HX8912B1A92D42A1B6px.jpg"
+    },
+    {
+      "name": "快樂蜂 (黃埔天地) Jollibee (The Whampoa)",
+      "type": "快餐店🍔",
+      "district": "黃埔",
+      "address": "紅磡黃埔天地百寶坊(第3期)地下G1B號舖",
+      "image": "https://static8.orstatic.com/userphoto2/photo/1B/11VY/07HFCR9511D72B54EF002Cpx.jpg"
+    }
+  ],
   "中西區": [
     {
       "name": "蘭芳園",
