@@ -1,4 +1,4 @@
-const RestaurantsInfo = [
+[
   "中西區" : [
     {
       name: '蘭芳園',
