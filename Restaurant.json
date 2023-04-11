@@ -208,7 +208,45 @@
 "image":"https://static5.orstatic.com/userphoto/doorphoto/0/8/0001KW6418AEDC83CD0E61lv.jpg",
 "popularity": 70
 }
-],
+],"九龍城區":
+  [
+    {
+      "name": "小曼谷海鮮燒烤屋",
+      "type": "泰國菜🍲",
+      "popularity": 69,
+      "address": "九龍城太子道西398號御太子地下1-3號舖",
+"image":"https://static5.orstatic.com/userphoto/photo/S/M9P/04ED1S3D9D5BC5BA2ABB3Fpx.jpg"
+      
+    },
+    {
+      "name": "上戶酒場",
+      "type": "日式料理🍜",
+      "popularity": 90,
+      "address": "九龍城龍崗道33-39號龍翔閣地下A號舖",
+"image":"https://ifoodcourt.com.hk/wp-content/uploads/2021/07/uedosakaba_cover.jpg"	   
+   },
+   {
+      "name": "蓮花健康素食",
+      "type": "素食🥑",
+      "popularity": 80,
+      "address": "九龍城福佬村道39號地下",
+"image":"https://static7.orstatic.com/userphoto2/photo/1A/1123/07BIVA3CB8A903CB0E181Fpx.jpg"
+   },
+   {
+      "name": "Orange Elephant Thai Restaurant",	
+      "type": "泰國菜🍲",
+      "popularity": 40,
+      "address": "九龍城啟德道31-33號地舖",
+"image":"https://ifoodcourt.com.hk/wp-content/uploads/2016/11/Orange-Elephant-Thai-Restaurant.jpg"
+   },
+   {
+      "name": "大和堂咖啡店",
+      "type": "西餐🥩",
+      "popularity": 55,
+      "address": "九龍城衙前塱道24號地舖",
+"image":"https://www.getreadyhk.com/images/stories/blog/ying/tai-wo-tang/tai-wo-tang-10.JPG"  
+   }
+  ],
  "觀塘區":
 [
 {
